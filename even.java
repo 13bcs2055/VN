@@ -1,6 +1,6 @@
 package js;
 import java.util.Scanner;
-public class evenno {
+public class even {
 	
 	
 	
